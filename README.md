@@ -41,3 +41,5 @@ O git mv é um comando simples e prático para mover um arquivo e, em seguida, e
 
  git clean;
 O git clean é usado para remover arquivos indesejados do seu diretório de trabalho.
+
+ Para deixar o seu documento público, você deve ir as configurações, depois rolar até as ultimas opções ate encontrar a "Danger Zone", após isso mude a visibilidade de seu documento para público
